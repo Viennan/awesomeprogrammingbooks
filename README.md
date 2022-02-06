@@ -149,6 +149,7 @@
 
 ## Docker
 
+- [《Docker从入门到实践》持续更新版](https://yeasy.gitbook.io/docker_practice/)
 - [《Docker从入门到实践（第3版）》](./docker/Docker从入门到实践（第3版）.pdf)
 - [《Docker容器与容器云（第2版）》](./docker/Docker容器与容器云（第2版）.pdf)
 
